@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 30 13:22:28 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018c-1f37-02ea-0000144a5fd0 
+on database directory /Users/trendytech/Desktop/RetailAnalysis/metastore_db with class loader sun.misc.Launcher$AppClassLoader@1b2c6ec2 
+Loaded from file:/Users/trendytech/.local/share/virtualenvs/RetailAnalysis-xoFHaijo/lib/python3.8/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=/Users/trendytech/Desktop/RetailAnalysis
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
